@@ -41,3 +41,5 @@
 
 ## 8. Model monitoring:
  ### The model monitoring stage comes after model deployment and is the process of exactly what it says - monitoring the model. You want to be looking out for model degradation, data drift, and others to ensure your model is at a good performance level. 
+
+> NOTE: for more [informations](https://www.kdnuggets.com/2022/12/complete-mlops-study-roadmap.html).
